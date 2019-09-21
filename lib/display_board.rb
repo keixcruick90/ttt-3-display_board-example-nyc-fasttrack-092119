@@ -7,4 +7,4 @@ def board
   puts " |", " |", " |"]
 end
 
-print board
+puts board
